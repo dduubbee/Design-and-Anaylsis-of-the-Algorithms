@@ -1,3 +1,4 @@
 /Graph_Basic/**/*.exe
 /Graph_Basic/**/*.o
 /Graph_Basic/.vscode
+*.txt
